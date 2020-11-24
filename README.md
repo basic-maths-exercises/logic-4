@@ -14,9 +14,9 @@ The truth value of the proposition above is determined from the truth values of 
 
 <table>
   <tr> 
-    <td>![](https://render.githubusercontent.com/render/math?math=a<X)</td>
-    <td>![](https://render.githubusercontent.com/render/math?math=X<b)</td>
-    <td>![](https://render.githubusercontent.com/render/math?math=a<X\wedge\X<b)</td>
+    <td>![](https://render.githubusercontent.com/render/math?math=a)</td>
+    <td>![](https://render.githubusercontent.com/render/math?math=X)</td>
+    <td>![](https://render.githubusercontent.com/render/math?math=ab)</td>
   </tr>  
   <tr><td>1</td><td>1</td><td>1</td></tr>
   <tr><td>1</td><td>0</td><td>0</td></tr>
