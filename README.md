@@ -14,7 +14,7 @@ The truth value of the proposition above is determined from the truth values of 
 
 <table>
   <tr> 
-    <td>![](https://render.githubusercontent.com/render/math?math=a)</td>
+    <td>![](https://render.githubusercontent.com/render/math?math=X=1)</td>
     <td>![](https://render.githubusercontent.com/render/math?math=X)</td>
     <td>![](https://render.githubusercontent.com/render/math?math=ab)</td>
   </tr>  
