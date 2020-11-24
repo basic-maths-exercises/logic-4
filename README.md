@@ -12,7 +12,7 @@ if a < X and X < b : c = 3
 
 The truth value of the proposition above is determined from the truth values of the two propositions of which it is composed using the following truth table:
 
-
+![](conjunction.png)
 
 __To complete the exercise you will need to use the ideas above to complete the function called `numberBetween`.__  This function takes three arguments:
 
