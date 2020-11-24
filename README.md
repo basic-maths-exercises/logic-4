@@ -12,17 +12,7 @@ if a < X and X < b : c = 3
 
 The truth value of the proposition above is determined from the truth values of the two propositions of which it is composed using the following truth table:
 
-<table>
-  <tr> 
-    <td>![](https://render.githubusercontent.com/render/math?math=X=1)</td>
-    <td>![](https://render.githubusercontent.com/render/math?math=X)</td>
-    <td>![](https://render.githubusercontent.com/render/math?math=ab)</td>
-  </tr>  
-  <tr><td>1</td><td>1</td><td>1</td></tr>
-  <tr><td>1</td><td>0</td><td>0</td></tr>
-  <tr><td>0</td><td>1</td><td>0</td></tr>
-  <tr><td>0</td><td>0</td><td>0</td></tr>
-</table>
+
 
 __To complete the exercise you will need to use the ideas above to complete the function called `numberBetween`.__  This function takes three arguments:
 
